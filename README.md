@@ -1,2 +1,1 @@
-# CodeAlpha
-CodeAlpha Data Science Internship
+CodeAlpha_Iris_Flower_Classification
